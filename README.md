@@ -17,7 +17,7 @@ New Post:
 Uploaded Post:
 ![Screenshot (13)](https://github.com/user-attachments/assets/19ab3ee4-14f2-473b-a8b2-e0f501846081)
 
-<h4 style="color:blue">Table of Contents</h4>
+# Table of Contents
 Features
 
 Technologies
@@ -44,7 +44,7 @@ Infinite scrolling for image feed
 
 Search for pins, boards, and users
 
-<h4 style="color:blue">Technologies</h4>
+# Technologies
 Frontend: HTML, CSS, JavaScript, React
 
 Backend: Node.js, Express
@@ -55,7 +55,7 @@ Authentication: JWT (JSON Web Tokens)
 
 Styling: Tailwind CSS
 
-<h4 style="color:blue">Setup</h4>
+# Setup
 To run this project locally, follow these steps:
 
 Prerequisites
@@ -64,7 +64,7 @@ Node.js (v14 or higher)
 
 MongoDB
 
-<h4 style="color:blue">Installation</h4>
+# Installation
 
 Navigate to the project directory:
 
