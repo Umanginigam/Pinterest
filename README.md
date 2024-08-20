@@ -19,45 +19,73 @@ Uploaded Post:
 
 <h4 style="color:blue">Table of Contents</h4>
 Features
+
 Technologies
+
 Setup
+
 Usage
+
 Contributing
+
 Features
+
 User authentication (Sign up, Sign in, Sign out)
+
 Create, edit, and delete boards
+
 Pin images to boards
+
 Follow/unfollow other users
+
 Responsive design for different screen sizes
+
 Infinite scrolling for image feed
+
 Search for pins, boards, and users
-Technologies
+
+<h4 style="color:blue">Technologies</h4>
 Frontend: HTML, CSS, JavaScript, React
+
 Backend: Node.js, Express
+
 Database: MongoDB
+
 Authentication: JWT (JSON Web Tokens)
+
 Styling: Tailwind CSS
-Setup
+
+<h4 style="color:blue">Setup</h4>
 To run this project locally, follow these steps:
 
 Prerequisites
+
 Node.js (v14 or higher)
+
 MongoDB
-Installation
-Clone the repository:
-git clone https://github.com/Tusharedith/pinterest-project.git
+
+<h4 style="color:blue">Installation</h4>
+
 Navigate to the project directory:
+
 cd pinterest
+
 Install dependencies for both the frontend and backend:
+
 # Install server dependencies
 cd backend
+
 npm install
 
 # Install client dependencies
 cd ../frontend
+
 npm install
+
 Environment Variables
+
 Create a .env file in the backend directory and add the following environment variables:
 
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
