@@ -1,8 +1,9 @@
 Welcome to the Pinterest Clone project! This project is a web application that replicates the core functionalities of Pinterest, allowing users to browse and pin images, and create boards. It is built using modern web technologies, 🚀🚀🚀
 
 Here are some screenshots of the project:
-<h1>Register:</h1>
-https://github.com/Umanginigam/Pinterest/blob/main/Screenshot%20(16).png?raw=true
+Register:
+<img src="https://github.com/Umanginigam/Pinterest/blob/main/Screenshot%20(16).png?raw=true">
+
 Login:
 ![Screenshot (15)](https://github.com/user-attachments/assets/d7c1f123-7c1d-42e1-9649-c0494893f59a)
 Profile:
