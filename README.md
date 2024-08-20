@@ -2,7 +2,7 @@ Welcome to the Pinterest Clone project! This project is a web application that r
 
 Here are some screenshots of the project:
 <h1>Register:</h1>
-![Screenshot (16)](https://github.com/user-attachments/assets/0abb3f40-bce2-47ac-b679-55e69276243e)
+https://github.com/Umanginigam/Pinterest/blob/main/Screenshot%20(16).png?raw=true
 Login:
 ![Screenshot (15)](https://github.com/user-attachments/assets/d7c1f123-7c1d-42e1-9649-c0494893f59a)
 Profile:
